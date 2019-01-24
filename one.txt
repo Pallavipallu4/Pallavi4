@@ -1,0 +1,10 @@
+ Volume in drive C is Windows8_OS
+ Volume Serial Number is 2EC6-1E1D
+
+ Directory of C:\Users\kalpana\Desktop\hari
+
+24-01-2019  03:39    <DIR>          .
+24-01-2019  03:39    <DIR>          ..
+24-01-2019  03:39                 0 one.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  335,703,977,984 bytes free
